@@ -5,8 +5,7 @@
 #include "Dealer.h"
 
 using namespace std;
-//
-// テスト
+
 //
 // 試験用ブラックジャックソース
 // 正常動作していない。

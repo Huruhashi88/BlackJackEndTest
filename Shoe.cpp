@@ -48,8 +48,9 @@ int Shoe::takeCard() {
 	if (_cardNum <= 0) {
 		//標準出力
 		cout << "シューにカードがありません。" << endl;
-		return -1;
+		return 1;
 	}
+
 
 	int card = _cardShoe[_cardNum];
 
